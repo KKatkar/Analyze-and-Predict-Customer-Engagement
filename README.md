@@ -34,13 +34,14 @@ _transcript.json_<br />
 
 <h2>Installation:</h2><br />
 Python 3.x <br />
-_Python libraries:_ <br /> NumPy,<br />
-		  Pandas,<br />
-		  Matplotlib – plot graphs,<br />
-		  Sklearn,<br />
-		  Json – to read data files,<br />
-		  Scipy – to generate distriutions,<br />
-		  Pprint<br />
+**Python libraries:** 
+<br />- NumPy,<br />
+		 - Pandas,<br />
+		 - Matplotlib – plot graphs,<br />
+		 - Sklearn,<br />
+		 - Json – to read data files,<br />
+		 - Scipy – to generate distriutions,<br />
+		 - Pprint<br />
 
 <h2>Reflection:</h2><br />
 In this project I successful created a Machine Learning model to tackle the challenge of identifying the conversion of an offer successfully. I successful wrangled and explored the data to understand the distributions and trends of the customer base. I was able to observe the patterns of offer distribution by Starbucks. 
