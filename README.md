@@ -34,7 +34,7 @@ _transcript.json_<br />
 
 <h2>Installation:</h2><br />
 Python 3.x <br />
-**Python libraries:**<br /> NumPy,<br />
+**Python libraries:** <br /> NumPy,<br />
 		  Pandas,<br />
 		  Matplotlib – plot graphs,<br />
 		  Sklearn,<br />
