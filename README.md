@@ -32,6 +32,28 @@ _transcript.json_<br />
 •	time (int) - time in hours since start of test. The data begins at time t=0<br />
 •	value - (dict of strings) - either an offer id or transaction amount depending on the record<br />
 
+## Analysis
+
+<p float="left">
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/income_female.PNG" width="30%" />
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/income_male.PNG" width="30%" /> 
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/income_other.PNG" width="30%" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/membership.PNG" width="40%" />
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/conversion_age.PNG" width="40%" /> 
+</p>
+
+<p float="left">
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/offers_conversion.PNG" width="40%" />
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/offers_count.PNG" width="40%" /> 
+</p>
+
+<p float="left">
+  <img src="https://github.com/KKatkar/Analyze-and-Predict-Customer-Engagement/blob/master/static/amount_spent.PNG" width="60%" />
+</p>
+
 <h2>Installation:</h2><br />
 Python 3.x <br />
 **Python libraries:** 
